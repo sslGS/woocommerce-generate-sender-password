@@ -1,2 +1,2 @@
-#Шорт-код:
+# Шорт-код:
 [sms_lost-password-form]
